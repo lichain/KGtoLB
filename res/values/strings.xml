@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, KGtoLBActivity!</string>
+    <string name="app_name">KGtoLB</string>
+    <string name="Convert">Convert</string>
+    <string name="KG">KG</string>
+    <string name="LB">LB</string>
+    <string name="cvOnClick">cvOnClick</string>
+    <string name="mainpage">main page</string>
+
+</resources>
